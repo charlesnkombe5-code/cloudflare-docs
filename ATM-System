@@ -1,0 +1,28 @@
+# ATM-System
+
+## ATM System in Python** – A command-line banking application that allows users to deposit, withdraw, transfer funds, and check account balances through an interactive menu.
+
+Built to practice core Python concepts such as functions, loops, conditionals, user input handling, and `match-case` statements.
+ Deposit funds into an account
+Withdraw funds from an account
+Check current account balance
+Transfer funds to another account
+Input validation for transactions
+Menu-driven interface using Python's match-case statement
+Continuous operation until the user chooses to exit
+
+Table of Contents
+1) Introduction
+2) Features
+3) Technologies Used
+4) How the Program Works
+*Deposit
+*Withdraw
+*Check Balance
+*Transfer
+5)Installation
+6)How to Run
+7)Learning Objectives
+8)Future Improvements
+9)Author
+  
